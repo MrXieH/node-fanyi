@@ -1,6 +1,6 @@
 {
   "name": "azan-fy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "dist/main.js",
   "bin": {
     "fy": "dist/cli.js"
